@@ -1,7 +1,7 @@
 # Google Picker API
 1. Create API key and OAuth 2.0 client ID at https://console.cloud.google.com/
-2. Add http://localhost to Autorized Javasript origins and Authorized redirect URLs
-3. Replace CLIENT_ID and DEVELOPER_KEY in demo/app.js
+2. Add the url "http://localhost" to **Autorized Javasript origins** and **Authorized redirect URLs**
+3. Replace **CLIENT_ID** and **DEVELOPER_KEY** in demo/app.js
 
 # Dependencies Setup
 Install nodejs (https://nodejs.org/en/download/)
